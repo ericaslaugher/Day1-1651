@@ -1,0 +1,15 @@
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\bin\Debug\net6.0\RPSGame.exe
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\bin\Debug\net6.0\RPSGame.deps.json
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\bin\Debug\net6.0\RPSGame.runtimeconfig.json
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\bin\Debug\net6.0\RPSGame.dll
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\bin\Debug\net6.0\RPSGame.pdb
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.csproj.AssemblyReference.cache
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.AssemblyInfoInputs.cache
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.AssemblyInfo.cs
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.csproj.CoreCompileInputs.cache
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.dll
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\refint\RPSGame.dll
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.pdb
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\RPSGame.genruntimeconfig.cache
+C:\Users\MrSmoke&Neko\Desktop\1651Code\Day1-1651\RPSgame\RPSGame\obj\Debug\net6.0\ref\RPSGame.dll
